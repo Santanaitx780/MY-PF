@@ -321,7 +321,7 @@ export default function Home() {
                   <span className="absolute inset-0 bg-gradient-to-r from-emerald-500 to-emerald-700 opacity-0 group-hover:opacity-100 transition-opacity" />
                 </a>
                 <a href="#contact" className="px-7 py-3 rounded-xl border border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-300 font-semibold text-sm hover:border-emerald-600 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all duration-300">Get In Touch</a>
-                <a href="/resume.pdf" download className="px-7 py-3 rounded-xl border border-gray-200 dark:border-gray-700 text-gray-400 dark:text-gray-500 font-semibold text-sm hover:border-emerald-600 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all duration-300">Resume</a>
+                <a href="/MY-PF/resume.pdf" download className="px-7 py-3 rounded-xl border border-gray-200 dark:border-gray-700 text-gray-400 dark:text-gray-500 font-semibold text-sm hover:border-emerald-600 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all duration-300">Resume</a>
               </div>
             </div>
 
@@ -329,7 +329,7 @@ export default function Home() {
                 <div className="relative">
                   <div className="absolute -inset-4 bg-gradient-to-br from-emerald-500/20 to-emerald-300/10 dark:from-emerald-500/10 dark:to-emerald-300/5 rounded-[32px] blur-2xl" />
                   <div className="relative w-72 h-80 rounded-2xl border border-emerald-200/50 dark:border-emerald-800/30 overflow-hidden shadow-2xl shadow-emerald-900/10">
-                    <img src="/profile.jpg" alt="UWIMPUHWE Regis" className="w-full h-full object-cover" />
+                    <img src="/MY-PF/profile.jpg" alt="UWIMPUHWE Regis" className="w-full h-full object-cover" />
                     <div className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-emerald-900/80 via-emerald-900/20 to-transparent" />
                     <div className="absolute bottom-0 left-0 right-0 p-5">
                       <p className="text-white text-sm font-bold">UWIMPUHWE Regis</p>
@@ -358,7 +358,7 @@ export default function Home() {
             <div className="reveal relative">
               <div className="absolute -top-6 -left-6 w-24 h-24 border-2 border-emerald-200/50 dark:border-emerald-800/30 rounded-2xl -z-10" />
               <div className="aspect-[4/5] rounded-2xl overflow-hidden border border-emerald-100/50 dark:border-emerald-800/30 relative shadow-xl shadow-emerald-900/5">
-                <img src="/profile.jpg" alt="UWIMPUHWE Regis" className="w-full h-full object-cover" />
+                <img src="/MY-PF/profile.jpg" alt="UWIMPUHWE Regis" className="w-full h-full object-cover" />
                 <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-emerald-900/80 via-emerald-900/20 to-transparent" />
                 <div className="absolute bottom-0 left-0 right-0 p-6">
                   <p className="text-white text-lg font-bold">UWIMPUHWE Regis</p>
